@@ -1,2 +1,0 @@
-# gasolinera-jsm
-Gasolineras Digitales
